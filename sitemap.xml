@@ -43,6 +43,21 @@
   </url>
   
   <url>
+    <loc>https://daaaaayuu.github.io/blog/sringbootday1/</loc>
+    <lastmod>2024-06-19T20:00:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daaaaayuu.github.io/tags/java/</loc>
+    <lastmod>2024-06-19T20:00:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daaaaayuu.github.io/tags/springboot/</loc>
+    <lastmod>2024-06-19T20:00:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daaaaayuu.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
@@ -55,41 +70,6 @@
   <url>
     <loc>https://daaaaayuu.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daaaaayuu.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
 </urlset>
